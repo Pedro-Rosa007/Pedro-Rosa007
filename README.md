@@ -1,4 +1,4 @@
-# <h1 align="center" styles = "justify-content:center;">👨🏻‍💻 Pedro Rosa </h1>
+# <h1 align="center" styles = "justify-content:center;"> Pedro Rosa </h1>
 
 **`FullStack Developer | Backend Focus`**
 
@@ -26,7 +26,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
  align="left" 
@@ -159,7 +159,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-### 📊 Estatísticas 
+### Estatísticas 
 <div align="center"> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-Rosa007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro-Rosa007&layout=compact&langs_count=8&theme=tokyonight" /> 
@@ -167,7 +167,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-### 🔥 Streak Stats
+### Streak Stats
 
 <p align="left">
     <img 
@@ -177,7 +177,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-### 🌐 Contato
+### Contato
 
 <p align="left">
 
