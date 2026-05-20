@@ -1,6 +1,6 @@
 # <h1 align="center" styles = "justify-content:center;"> Pedro Rosa </h1>
 
-**`FullStack Developer | Backend Focus`**
+<p align="center">FullStack Developer | Backend Focus</p>
 
 Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e arquitetura de software. Atualmente foco na criação de APIs, sistemas escaláveis e aplicações fullstack.
 
