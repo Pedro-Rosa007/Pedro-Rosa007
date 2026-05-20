@@ -169,7 +169,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ### Streak Stats
 
-<p align="left">
+<p align="center">
     <img 
         src="https://streak-stats.demolab.com?user=Pedro-Rosa007&theme=tokyonight" 
     />
