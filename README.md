@@ -159,34 +159,11 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Rosa007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-
-<img 
-   align="left" 
-   alt="Tecnologias" 
-   height="190" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Rosa007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+### 📊 Estatísticas 
+<div align="center"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Rosa007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Rosa007&layout=compact&langs_count=8&theme=tokyonight"/> 
+</div>
 
 ---
 
