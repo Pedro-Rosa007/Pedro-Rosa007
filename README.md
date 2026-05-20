@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Rosa
+# <h1 align="center" styles = "justify-content:center;">👨🏻‍💻 Pedro Rosa </h1>
 
 **`FullStack Developer | Backend Focus`**
 
