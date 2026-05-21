@@ -6,7 +6,7 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 
 ---
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Pedro-Rosa007?tab=followers">
         <img 
             alt="Seguidores" 
@@ -46,14 +46,6 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" 
 />
 
-<img 
- align="left" 
- alt="Flask"
- title="Flask" 
- width="30px" 
- style="padding-right:10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-/>
 
 <img 
  align="left" 
@@ -184,6 +176,16 @@ Me chamo Pedro Rosa e sou apaixonado por tecnologia, desenvolvimento backend e a
 <a href="https://github.com/Pedro-Rosa007">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
+
+</p>
+
+<p align="left">
+
+<a href="www.linkedin.com/in/pedrorosadev">
+    <img 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 
