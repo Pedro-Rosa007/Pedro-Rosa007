@@ -1,6 +1,6 @@
 # <h1 align="center" styles = "justify-content:center;"> Pedro Rosa </h1>
 <p></p>
-<p align="center">FullStack Developer | Backend Focus</p>
+<p align="center"><strong>FullStack Developer | Backend Focus</strong></p>
 
 <p align="center">
     <a href="https://github.com/Pedro-Rosa007?tab=followers">
